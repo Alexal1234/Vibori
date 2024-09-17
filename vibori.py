@@ -53,7 +53,6 @@ def kill_negative_from_left(array1, right_side, len_left_side):
     return right_side
 
 
-print("Hello World")
 N1 = Uchastok()
 N2 = Uchastok()
 N3 = Uchastok()
