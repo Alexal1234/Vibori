@@ -52,7 +52,7 @@ def kill_negative_from_left(array1, right_side, len_left_side):
             break
     return right_side
 
-print("5")
+
 N1 = Uchastok()
 N2 = Uchastok()
 N3 = Uchastok()
